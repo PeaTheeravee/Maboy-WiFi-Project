@@ -2,7 +2,7 @@
 ระบบยืนยันตัวตนผ่าน Web Authentication สำหรับเข้าใช้งาน WiFi โปรเจครายวิชา 240-351 Network Infrastructure Engineer Module 3rd Year 2/2566
 
 # Slide Presentation 
-https://www.canva.com/design/DAG37qPzTCA/aBIJuMr2NFJnglhxdSEM_A/edit?utm_content=DAG37qPzTCA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://drive.google.com/file/d/1Ut-tXrmmHZO2m2cgSHywnRFZwvWNaVXf/view?usp=sharing
 
 # หน้าเว็บไซต์
 <img width="1540" height="800" alt="Image" src="https://github.com/user-attachments/assets/1116415f-249c-4cc0-8ea3-ddb55617a65e" />
